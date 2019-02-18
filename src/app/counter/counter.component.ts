@@ -5,7 +5,8 @@ import { take, map } from 'rxjs/operators';
 
 @Component({
     selector: 'app-counter',
-    templateUrl: './counter.component.html'
+    templateUrl: './counter.component.html',
+    styleUrls: ['../app.component.css']
 })
 
 export class CounterComponent {
