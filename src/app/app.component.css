@@ -5,3 +5,8 @@ div {
 .header { 
     background-color: plum;
 }
+
+div span {
+    color: hotpink;
+    font-style: bold;
+}
